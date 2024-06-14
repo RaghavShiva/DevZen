@@ -17,13 +17,13 @@
 * It also counts the number of words, characters and minutes to read.
 
 Also the website has a favicon icon to enhance its UI and increase its authenticity.
-<img width="64" alt="faviconicon" src="./public/favicon.png">
+<img width="24" alt="faviconicon" src="./public/favicon.png">
 
 ## Installation Instructions
 
 1. Install *Node.js*
 2. Install *npm*
-3. Clone this github repo `https://github.com/RaghavShiva/Cognitext.git`.
+3. Clone this github repo `https://github.com/RaghavShiva/code_editor.git`.
 4. Open the local project directory in a terminal, and run: `npm install`.
 
 ## To start the application locally
