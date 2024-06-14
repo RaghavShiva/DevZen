@@ -17,7 +17,7 @@
 * It also counts the number of words, characters and minutes to read.
 
 Also the website has a favicon icon to enhance its UI and increase its authenticity.
-<img width="64" alt="faviconicon" src="./public/favicon.png">
+<img width="24" alt="faviconicon" src="./public/favicon.png">
 
 ## Installation Instructions
 
