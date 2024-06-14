@@ -12,7 +12,7 @@
 ## Features
 
 * In DevZen, you can write your code in HTML, CSS, JS.
-* It `Saves` your code even on refreshing the page so that your progress is not lost.
+* It `Saves` your code even on exiting the page so that your progress is not lost.
 * In the downward section you can even see `live` run of the code.
 * You don't need to connect css and js files with html, they are already connected.
 * You can use `Open` and `Close` button to minimize and maximize a section.
