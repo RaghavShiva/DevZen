@@ -1,10 +1,10 @@
 
 # Textify
 <p align="center">
-<img src="https://github.com/RaghavShiva/code_editor/raw/main/public/working.png" alt="Textify"/>
+<img src="https://github.com/RaghavShiva/code_editor/raw/main/src/Assets/working.png" alt="Textify"/>
 
 <br/>
-<a href="https://drive.google.com/file/d/1QvuAsC4veG9WF4R8SlJaFURsNnJ5r0FR/view?usp=drive_link">DEMO CLIP</a>&nbsp
+<a href="https://drive.google.com/file/d/1QvuAsC4veG9WF4R8SlJaFURsNnJ5r0FR/view?usp=drive_link">DEMO CLIP</a>&nbsp&nbsp&nbsp
   <a href="https://textify-app.netlify.app/">View Deployed Website</a>
 </p>
 
@@ -18,7 +18,7 @@
 * It also counts the number of words, characters and minutes to read.
 
 Also the website has a favicon icon to enhance its UI and increase its authenticity.
-<img width="24" alt="faviconicon" src="https://github.com/RaghavShiva/code_editor/raw/main/public/favicon.png">
+<img width="24" alt="faviconicon" src="https://github.com/RaghavShiva/code_editor/raw/main/src/Assets/favicon.png">
 
 ## Installation Instructions
 
