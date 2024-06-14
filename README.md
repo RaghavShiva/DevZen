@@ -4,7 +4,7 @@
 <img src="https://github.com/RaghavShiva/code_editor/raw/main/public/working.png" alt="Textify"/>
 
 <br/>
-<a href="./public/clip_SR.mp4">DEMO CLIP</a>&nbsp
+<a href="https://drive.google.com/file/d/1QvuAsC4veG9WF4R8SlJaFURsNnJ5r0FR/view?usp=drive_link">DEMO CLIP</a>&nbsp
   <a href="https://textify-app.netlify.app/">View Deployed Website</a>
 </p>
 
