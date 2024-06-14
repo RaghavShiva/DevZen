@@ -1,7 +1,7 @@
 
 # Textify
 <p align="center">
-<img src="./public/working.png" alt="Textify"/>
+<img src="https://github.com/RaghavShiva/code_editor/raw/main/public/working.png" alt="Textify"/>
 
 <br/>
   <a href="https://textify-app.netlify.app/">View Deployed Website</a>
