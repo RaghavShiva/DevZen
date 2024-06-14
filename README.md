@@ -1,7 +1,7 @@
 
 # Textify
 <p align="center">
-<img src="https://github.com/RaghavShiva/Cognitext/raw/main/src/assets/textify_use.png?raw=true" alt="Textify"/>
+<img src="./public/working.png" alt="Textify"/>
 
 <br/>
   <a href="https://textify-app.netlify.app/">View Deployed Website</a>
