@@ -1,70 +1,39 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Textify
+<p align="center">
+<img src="https://github.com/RaghavShiva/Cognitext/raw/main/src/assets/textify_use.png?raw=true" alt="Textify"/>
 
-## Available Scripts
+<br/>
+  <a href="https://textify-app.netlify.app/">View Deployed Website</a>
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* In Textify you can modify your text as per your need.
+* It allows you to `write` and even `record` your text.
+* By clicking start button you can record your text and then add it to preview section.
+* In the preview section you can even `copy` your text or can `print` it by click on copy and print icon respectively.
+* It also counts the number of words, characters and minutes to read.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Also the website has a favicon icon to enhance its UI and increase its authenticity.
+<img width="206" alt="faviconicon" src="https://user-images.githubusercontent.com/83106116/179543568-fb8b9338-8f91-4dbb-b206-2ea618f5e1a8.png">
 
-### `npm test`
+## Installation Instructions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Install *Node.js*
+2. Install *npm*
+3. Clone this github repo `https://github.com/RaghavShiva/Cognitext.git`.
+4. Open the local project directory in a terminal, and run: `npm install`.
 
-### `npm run build`
+## To start the application locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In the project directory, you can run: `npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Need help?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Feel free to contact me on
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ragshiv04) [![X](https://img.shields.io/badge/X-follow-blue.svg?logo=x&logoColor=white
+)](https://x.com/raghav_shiva04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-green.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-raghav-96b94a255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---------
