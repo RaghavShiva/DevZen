@@ -11,11 +11,11 @@
 
 ## Features
 
-* In Textify you can modify your text as per your need.
-* It allows you to `write` and even `record` your text.
-* By clicking start button you can record your text and then add it to preview section.
-* In the preview section you can even `copy` your text or can `print` it by click on copy and print icon respectively.
-* It also counts the number of words, characters and minutes to read.
+* In DevZen, you can write your code in HTML, CSS, JS.
+* It `Saves` your code even on refreshing the page so that your progress is not lost.
+* In the downward section you can even see your `live` run of the code.
+* You don't need to connect css and js files with html, they are already connected.
+* You can use `Open` and `Close` button to minimize and maximize a section.
 
 Also the website has a favicon icon to enhance its UI and increase its authenticity.
 <img width="24" alt="faviconicon" src="https://github.com/RaghavShiva/DevZen/raw/main/src/Assets/favicon.png">
