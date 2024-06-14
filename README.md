@@ -1,7 +1,7 @@
 
-# Textify
+# DevZen
 <p align="center">
-<img src="https://github.com/RaghavShiva/code_editor/raw/main/src/Assets/working.png" alt="Textify"/>
+<img src="https://github.com/RaghavShiva/DevZen/raw/main/src/Assets/working.png" alt="DevZen"/>
 
 <br/>
 <a href="https://drive.google.com/file/d/1QvuAsC4veG9WF4R8SlJaFURsNnJ5r0FR/view?usp=drive_link">DEMO CLIP</a>&nbsp&nbsp&nbsp
@@ -18,13 +18,13 @@
 * It also counts the number of words, characters and minutes to read.
 
 Also the website has a favicon icon to enhance its UI and increase its authenticity.
-<img width="24" alt="faviconicon" src="https://github.com/RaghavShiva/code_editor/raw/main/src/Assets/favicon.png">
+<img width="24" alt="faviconicon" src="https://github.com/RaghavShiva/DevZen/raw/main/src/Assets/favicon.png">
 
 ## Installation Instructions
 
 1. Install *Node.js*
 2. Install *npm*
-3. Clone this github repo `https://github.com/RaghavShiva/code_editor.git`.
+3. Clone this github repo `https://github.com/RaghavShiva/DevZen.git`.
 4. Open the local project directory in a terminal, and run: `npm install`.
 
 ## To start the application locally
